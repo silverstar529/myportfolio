@@ -6,6 +6,7 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Profile from "./components/Profile";
 import Projects from "./components/Projects";
+import Certificates from "./components/Certificates";
 import ScrollToTopButton from "./components/ScrollToTop";
 import Skills from "./components/Skills";
 import { ToastContainer } from "react-toastify";
@@ -20,6 +21,7 @@ function App() {
       <Skills />
       <Projects />
       <Experience />
+      <Certificates />
       <Contact />
       <Footer />
       <ScrollToTopButton />

@@ -20,6 +20,10 @@ const Navlinks = [
     link: "experience",
   },
   {
+    title: "Certificates",
+    link: "certificates",
+  },
+  {
     title: "Contact",
     link: "contact",
   },
