@@ -2,29 +2,17 @@ import { FaDiscord, FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 
 const ContactData = {
-  phone: "+91 9515643851",
-  email: "talakolavijaykumar@gmail.com",
-  address: "Guntur , Andhra Pradesh , India",
+  phone: "+55 7198796-5066",
+  email: "hbray3312@gmail.com",
+  address: "Salvador, Bahia, Brazil",
   links: [
     {
-      url: "https://github.com/VijayKumarReddyTalakola",
+      url: "https://github.com/silverstar529",
       icon: FaGithub,
     },
     {
-      url: "https://www.linkedin.com/in/vijay-talakola",
+      url: "https://www.linkedin.com/in/marcos-fabiano-a03a00284/",
       icon: FaLinkedin,
-    },
-    {
-      url: "https://discordapp.com/users/talakolavijay",
-      icon: FaDiscord,
-    },
-    {
-      url: "https://www.instagram.com/vijay_talakola",
-      icon: FaInstagram,
-    },
-    {
-      url: "https://twitter.com/talakolavijay",
-      icon: FaXTwitter,
     },
   ],
 };

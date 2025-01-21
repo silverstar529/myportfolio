@@ -1,14 +1,14 @@
 const ProfileData = {
   img: require("../assets/Images/hero.png"),
   logo: require("../assets/Images/Name.png"),
-  name: "Vijay Kumar",
-  professions: ["Web Developer", "Free Lancer", "Enthusiastic Dev"],
+  name: "Marcos Fabiano",
+  professions: ["Senior FullStack Engineer", "Responsible Man", "Enthusiastic Dev"],
   info: [
-    "Knack of building web applications using MERN stack.",
-    "I enjoy designing tech websites.",
+    "Expertise in building scalable web applications using several stacks",
+    "I enjoy Tech challenging",
   ],
   resume:
-    "https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx",
+    "https://docs.google.com/document/d/1Gxd6NitRap3vpyrveg1K2-6X7bKL7ntSj0sLvJQIuWo/edit?tab=t.0",
 };
 
 export default ProfileData;
